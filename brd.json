@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "id": 1122,
+      "usuario": "DSanz",
+      "email": "______"
+    }
+  ],
+  "birds": [
+    {
+      "id": "ds-arrendajo",
+      "nombre": "Arrendajo",
+      "nombre_cientifico": "Garrulus glandarius",
+      "descripcion": "Ave paseriforme de la familiza de los córvidos, muy similar a la urraca.  Se trata de un ave tímida que no suele dejarse ver.En cuanto a la alimentación es obnivoro, imita el cante de otras aves, así como el alcaudón lo utiliza para engañar a sus víctunas en el arrendajo se desconoce su finalidad. Entierra frutos secos para poder alimentarse en invierno, aunque conoce perfectamente su terreno y tiene una prodigiosa memoria no todos los frutos secos son recogidos, de esta manera disemina las semillas lo que supone una gran ayuda en el cuidado de nuestros bosques ",
+      "familia": "Corvidae",
+      "alimentacion": "Omnivoro,  frutos secos, insectos..."
+    },
+    {
+      "id": "ds-colirrojo",
+      "nombre": "Colirrojo",
+      "nombre_cientifico": "Phoenicurus ochruros",
+      "descripcion": "Colirrojo tizón es una especie de ave paseriforme de la familiza Muscicapidae. Debe su nombre al color rojizo de la cola. Aunque es insectívoro también en verano y otoño incluye bayas en su alimentación. Se encuentra en zonas abiertas rocosas, puede vivir tanto en riscos como en edificios en la ciudad. ",
+      "alimentacion": "Insectivoro",
+      "familia": "Muscicapidae"
+    },
+    {
+      "id": "ds-carbonero",
+      "nombre": "Carbonero",
+      "nombre_cientifico": "Parus major",
+      "descripcion": "Carbonero común, presente en toda la penísula ibérica, es un ave muy pequeña y llamativa que podemos ver en nuestros parques, es muy activo siempre en constante búsqueda de alimento, es de la familia de los Paridos, en su habita es imprescindible la preséncia de árboles y agujeros donde poder refugiarse y construir nidos en la época de cria. Mientras que en verano y primavera se alimenta de pequeños invertebrados, insectos y larvas en invierno pasa a ser omnivoro. \n\nNo es un ave migratoria sino que suele permanecer en el mismo lugar donde nació.",
+      "alimentacion": "Omnívoro",
+      "familia": "Paridae"
+    },
+    {
+      "id": "ds-cernicalo",
+      "nombre": "Cernicalo",
+      "nombre_cientifico": "Falco tinnunculus",
+      "descripcion": "El cernícalo convive con nosotros en nuestras ciudades, es un ave que se deja ver, de la familia de los halcones, es uno de los más pequeños dentro de la familia de los falcónidos. Le gusta cazar en espacios abiertos, se mantiene cernido en el aire ( de ahi su nombre ), inmóvil acecha su presa, tiene una visión muy particular ya que es  capaz de distinguir la luz ultravioleta, de esta manera puede encontrar en el suelo el rastro de la orina de los ratones con esta ayuda localiza su presa tirandose en picado y abalanzándose sobre ella. Ademas de ratones se alimenta de pequeños pájaros e insectos.\n\n Aunque el cernícalo es una especie de preocupación menor existe existe otra espécie simila, el cernícalo primilla (Falco naumanni) que si se trata de una especie muy amenazada. ",
+      "alimentacion": "Carnívoro",
+      "familia": "Falconidae"
+    },
+    {
+      "id": "ds-picodecoral",
+      "nombre": "Pico de coral",
+      "nombre_cientifico": "Estrilda astrild",
+      "descripcion": "Se trata de un ave proveniente del África Subsahariana aunque ha sido introducida en muchas regiones como animal de compañia, actiamente se puede encontrar en libertada en algunas zonas de la península Ibérica, puede constituir una amenaza grabe para algunas espécies autóctonas debido a su caracter colonizador, en España está considerada como una espécie invasora por lo que se prohive su introducción en el médio natural y su comércio , pertenece al orden de las Passeriformes ",
+      "alimentacion": "Granívoro",
+      "familia": "Estrildidae"
+    },
+    {
+      "id": "ds-garzareal",
+      "nombre": "Garza Real",
+      "nombre_cientifico": "Ardea Cinerea",
+      "descripcion": "La Garza Real es un ave acuática que vive en rios, lagos, prados inundados, humedales ya sean de agua dulce o salada, pesca peces quedándose completamente inmóvil, cuando aparece el objetivo  dispara su pico inpulsándose con su largo cuello.  Su aspecto es esvelto de pico y cuello alargados y puede alcanzar una longitud de hasta 100cm.\n\nEs un ave parcialmente migratória, pasa el invierno al sur de Europa y norte de África.\n",
+      "alimentacion": "Peces y otro tipo de animales acuáticos, insectos, ratones.",
+      "familia": "Ardeidae"
+    }
+  ]
+}
